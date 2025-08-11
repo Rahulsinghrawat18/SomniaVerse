@@ -94,7 +94,9 @@ Contract Token Dungeon at [0x74440B7E4C3Eb17ba37648d2745AF93edCb3849A](https://s
 
 ## 🎥 Demo Video
 
-[![Demo Video](https://www.youtube.com/watch?v=Y2xTYXtnVXM)]
+## 🎥 Demo Video
+
+[![Demo Video](https://github.com/Rahulsinghrawat18/SomniaVerse/blob/main/assets/logo.png)](https://www.youtube.com/watch?v=Y2xTYXtnVXM)
 
 ## Get Started 🚀
 
