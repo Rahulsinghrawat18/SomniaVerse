@@ -1,6 +1,6 @@
 import { defineChain } from 'viem'
 
-export const monadTestnet = defineChain({
+export const SomniaTestnet = defineChain({
     id: 50312,
     name: "Somnia Testnet",
     network: "Somnia Testnet",

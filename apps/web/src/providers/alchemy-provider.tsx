@@ -8,14 +8,14 @@ import {
 } from "@rainbow-me/rainbowkit";
 import { WagmiProvider } from "wagmi";
 import { QueryClientProvider, QueryClient } from "@tanstack/react-query";
-import { monadTestnet } from "../utils/contact";
+import { SomniaTestnet } from "../utils/contact";
 import { type Config } from 'wagmi';
 
 // eslint-disable-next-line @typescript-eslint/no-unsafe-assignment -- getDefaultConfig returns a properly shaped object but lacks strong typing
 const config: Config = getDefaultConfig({
   appName: "Dungeon",
   projectId: "2d6454cc5c2fdc9eaad38d77535b559c",
-  chains: [monadTestnet] ,
+  chains: [SomniaTestnet] ,
   ssr: false,
 });
 
